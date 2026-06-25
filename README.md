@@ -4,7 +4,7 @@
 
 This project aims to predict the likelihood of diabetes in patients using machine learning techniques. By analyzing key medical attributes such as glucose level, blood pressure, BMI, insulin level, age, and pregnancy history, the model helps identify individuals at risk of diabetes. The project demonstrates a complete machine learning workflow, including data preprocessing, feature scaling, model training, evaluation, and model persistence for future deployment.
 
-## 📊 Dataset Overview 
+## 📊 Dataset Overview
 
 - **Dataset:** Pima Indians Diabetes Dataset
 - **Source:** Kaggle
