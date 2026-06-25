@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction using Machine Learning
+# 🩺 Diabetes Prediction using Machine Learning methods
 
 ## 📌 Project Overview
 
