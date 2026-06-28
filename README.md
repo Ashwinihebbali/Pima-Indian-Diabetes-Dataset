@@ -27,27 +27,27 @@ This project aims to predict the likelihood of diabetes in patients using machin
 
 ## 🔄 Project Workflow
 
-### 1️⃣ Data Collection
+### 1️ Data Collection
 - Imported the diabetes dataset from Kaggle.
 - Performed initial data exploration and analysis.
 
-### 2️⃣ Data Preprocessing
+### 2️ Data Preprocessing
 - Checked for missing and invalid values.
 - Replaced medically impossible zero values with median values.
 - Prepared clean and consistent data for training.
 
-### 3️⃣ Feature Engineering
+### 3️ Feature Engineering
 - Separated input features and target variable.
 - Applied feature scaling using StandardScaler.
 
-### 4️⃣ Train-Test Split
+### 4️ Train-Test Split
 - Split the dataset into training and testing sets using an 80:20 ratio.
 
-### 5️⃣ Model Training
+### 5️ Model Training
 - Trained a machine learning classification model using Scikit-Learn.
 - Optimized model performance through proper preprocessing techniques.
 
-### 6️⃣ Model Evaluation
+### 6️ Model Evaluation
 - Evaluated model performance using:
   - Accuracy Score
   - Confusion Matrix
@@ -55,7 +55,7 @@ This project aims to predict the likelihood of diabetes in patients using machin
   - Recall
   - F1 Score
 
-### 7️⃣ Model Persistence
+### 7️ Model Persistence
 - Saved the trained model and scaler using Joblib for future deployment.
 
 ## 🤖 Technologies Used
@@ -88,7 +88,7 @@ This project aims to predict the likelihood of diabetes in patients using machin
 - Achieved reliable diabetes prediction performance.
 - Created reusable model files for deployment and integration into web applications.
 
-## 🚀 Future Enhancements & 🎯 Conclusion
+## 🚀 Future Enhancements &  Conclusion
 
 This project demonstrates the practical application of machine learning in healthcare analytics by leveraging patient health indicators to predict diabetes risk. The developed model provides a strong foundation for intelligent healthcare solutions and early disease detection systems.
 
